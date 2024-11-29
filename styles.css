@@ -293,14 +293,14 @@ section .title span::after{
     width: -10%;
 }
 .about .left img{
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     object-fit: cover;
     border-radius: 15px;
     top: -20px;
 }
 .about-detail .right{
-    width: 55%;
+    width: 60%;
 }
 .about-detail .right p{
     text-align: justify;
